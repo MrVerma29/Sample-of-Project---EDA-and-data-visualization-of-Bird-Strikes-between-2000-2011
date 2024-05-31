@@ -20,24 +20,23 @@ Expected Outcomes :-
 
 
 Targeted Variables :- 
-
-•	Date and Time: 
+1.  Date and Time:
     Recording when the bird strike occurred, including the specific date and time of day.
-•	Location: 
+2.  Location:
     Identifying where the bird strike incident took place, including the airport code or geographical coordinates.
-•	Flight Information: 
+3.  Flight Information: 
     Capturing details about the flight involved, such as the airline, flight number, and aircraft type.
-•	Bird Species: 
+4.  Bird Species: 
     Documenting the species of bird involved in the strike, if identifiable.
-•	Flight Phase: 
+5.  Flight Phase: 
     Categorizing the phase of flight during which the strike occurred, such as takeoff, landing, or cruise.
-•	Altitude: 
+6.  Altitude: 
     Noting the altitude of the aircraft at the time of the bird strike.
-•	Weather Conditions: 
+7.	Weather Conditions: 
     Describing the weather conditions prevailing at the time of the incident, including factors like visibility, wind speed, and precipitation.
-•	Damage Assessment: 
+8.	Damage Assessment: 
     Assessing the extent of damage to the aircraft resulting from the bird strike.
-•	Cost: 
+9.	Cost: 
     Estimating the financial cost associated with the incident, including repair costs and operational impacts.
-•	Injuries or Fatalities: 
+10. Injuries or Fatalities: 
     Recording any injuries to passengers or crew and any fatalities resulting from the bird strike.
