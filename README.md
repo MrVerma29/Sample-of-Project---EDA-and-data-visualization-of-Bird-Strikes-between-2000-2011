@@ -40,3 +40,32 @@ Targeted Variables :-
     Estimating the financial cost associated with the incident, including repair costs and operational impacts.
 10. Injuries or Fatalities: 
     Recording any injuries to passengers or crew and any fatalities resulting from the bird strike.
+
+
+
+Overall summary of the insights : -
+1.	Bird strikes are a significant issue for the aviation industry, with increasing frequency over time and substantial economic impact.
+2.	Most strikes occur at lower altitudes during takeoff, landing, and approach phases.
+3.	Unknown bird species are common, but certain identified species like mourning doves are frequently involved.
+4.	Strikes typically have no major impact, but some cause aborted takeoffs, engine shutdowns, injuries, and even fatalities.
+5.	Pilot warnings about bird activity can help mitigate the severity of strikes.
+6.	Certain larger bird species cause more damage and higher costs than smaller birds.
+
+Important Insights : -
+1.	Bird strikes are becoming more prevalent and pose a safety and financial threat to the aviation industry.
+2.	Lower flight phases are most vulnerable to bird strikes.
+3.	Specific bird species can be targeted for mitigation efforts around airports.
+4.	Improved communication and warnings about bird hazards can benefit pilots.
+5.	The impact of bird strikes varies depending on the species and altitude.
+
+Key Metrics and Factors Affecting : -
+1.	Metrics: Number of bird strikes, cost of damages, injuries, flight delays/cancellations, altitude, time of day, weather conditions.
+2.	Factors Affecting: Bird species, flight phase, pilot warnings, airport location, time of year.
+
+Strategies : -
+1.	Wildlife management programs to reduce bird populations around airports.
+2.	Habitat modification to make airport areas less attractive to birds.
+3.	Improved technology for bird detection and deterrence.
+4.	Enhanced communication and warnings about bird activity for pilots.
+5.	Public awareness campaigns about the dangers of bird strikes.
+
