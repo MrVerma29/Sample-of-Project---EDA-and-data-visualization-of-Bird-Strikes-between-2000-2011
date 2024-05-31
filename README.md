@@ -51,20 +51,67 @@ Targeted Variables :-
 5.	Pilot warnings about bird activity can help mitigate the severity of strikes.
 6.	Certain larger bird species cause more damage and higher costs than smaller birds.
 
-# Important Insights : -
+# Important Insights:
+1.	Trends Over Time:
+A steady increase in bird strikes from 2000 to 2011, indicating a growing problem.
+Most incidents occur during take-off, initial climb, approach, and landing phases.
+2.	Cost Implications:
+Significant financial costs incurred due to bird strikes, with some incidents exceeding $10 million.
+Outliers with extremely high costs suggest catastrophic impacts on the aviation industry.
+3.	Impact on Flights:
+Majority of bird strikes have no significant impact on flights, but some result in aborted take-offs, precautionary landings, or engine shutdowns.
+Approach phase has the highest frequency of bird strikes, with landing roll and take-off run phases also affected.
+4.	Factors Affecting Strikes:
+Altitude, time of day, and weather conditions influence the likelihood of bird strikes.
+Pilots warned of bird activity have fewer instances of aborted take-offs or engine shutdowns.
+5.	Strategies Based on Goals:
+Implement wildlife management programs and enhance pilot warnings to mitigate bird strike risks.
+Focus on identifying and monitoring specific bird species known to cause high costs and severe flight impacts.
+
+# Insight Summary:
+1.	Transport Safety Enhancement:
+The analysis identified trends and factors influencing bird strikes, enabling the development of targeted strategies to enhance aviation safety.
+2.	Financial Impact Mitigation:
+Understanding the financial costs associated with bird strikes helped in proposing measures to mitigate economic losses and operational disruptions.
+3.	Operational Efficiency Improvement:
+Insights into the impact of bird strikes on flights informed strategies to improve operational efficiency by reducing delays, diversions, and cancellations.
+4.	Risk Reduction Strategies:
+Factors affecting bird strikes, such as altitude, weather conditions, and geographic location, guided the development of risk reduction strategies tailored to specific environments.
+5.	Collaborative Approach:
+Collaboration with industry stakeholders, wildlife experts, and government agencies was emphasized to develop comprehensive and effective strategies for bird strike prevention and mitigation.
+
+# Additional Insights : -
 1.	Bird strikes are becoming more prevalent and pose a safety and financial threat to the aviation industry.
 2.	Lower flight phases are most vulnerable to bird strikes.
 3.	Specific bird species can be targeted for mitigation efforts around airports.
 4.	Improved communication and warnings about bird hazards can benefit pilots.
 5.	The impact of bird strikes varies depending on the species and altitude.
 
-# Key Metrics and Factors Affecting : -
-1.	Metrics: Number of bird strikes, cost of damages, injuries, flight delays/cancellations, altitude, time of day, weather conditions.
-2.	Factors Affecting: Bird species, flight phase, pilot warnings, airport location, time of year.
+# Key Metrics:
+1.	Total number of bird strikes over the years.
+2.	Financial costs incurred due to bird strikes.
+3.	Severity of incidents, including injuries and damage to aircraft.
+4.	Distribution of bird strikes by flight phase and altitude.
+5.	Effectiveness of prior warnings in mitigating bird strike impacts.
+# Factors Affecting:
+1.	Altitude: Lower altitudes during take-off and landing phases are more prone to bird strikes.
+2.	Time of Day: Bird strikes are influenced by visibility and lighting conditions.
+3.	Weather Conditions: Clear skies or cloudy conditions can affect bird activity and strike frequency.
+4.	Pilot Warnings: Providing prior warnings can mitigate the impact of bird strikes on flights.
+5.	Geographic Location: Certain airports may experience higher bird strike frequencies due to habitat proximity.
 
-# Strategies : -
-1.	Wildlife management programs to reduce bird populations around airports.
-2.	Habitat modification to make airport areas less attractive to birds.
+# Strategies To Implement:
+1.	Wildlife Management: 
+Implement measures to control bird populations near airports and reduce attractiveness of airport surroundings to birds.
+2.	Pilot Awareness: 
+Enhance pilot training and communication to increase awareness of bird strike risks and proper procedures for mitigation.
+3.	Technological Solutions: 
+Explore advanced radar systems and bird detection technologies to improve early warning and avoidance strategies.
+4.	Data Sharing: 
+Establish a centralized database for sharing bird strike incident data to facilitate research and collaborative efforts in bird strike prevention.
+5.	Collaborative Efforts: 
+Collaborate with aviation industry stakeholders, wildlife experts, and government agencies to develop comprehensive strategies for bird strike prevention and mitigation.
+ttractive to birds.
 3.	Improved technology for bird detection and deterrence.
 4.	Enhanced communication and warnings about bird activity for pilots.
 5.	Public awareness campaigns about the dangers of bird strikes.
