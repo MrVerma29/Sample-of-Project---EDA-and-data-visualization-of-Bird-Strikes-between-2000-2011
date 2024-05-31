@@ -42,32 +42,32 @@ Transport and communication, vital sectors in analytics, face pressing concerns 
     Recording any injuries to passengers or crew and any fatalities resulting from the bird strike.
 
 # Metadata
-1. Record ID: Unique identifier for each record in the dataset.
-2. Aircraft Type: Type of aircraft involved in the bird strike incident.
-3. Airport Name: Name of the airport where the bird strike incident occurred.
-4. Altitude Bin: Categorized altitude range of the aircraft at the time of the bird strike.
-5. Aircraft Make/Model: Make and model of the aircraft involved.
-6. Wildlife: Number Struck (Reported): Number of wildlife struck as reported.
-7. Wildlife: Number Struck (Actual): Actual number of wildlife struck as determined.
-8. Effect: Impact to Flight: Impact of the bird strike on the flight operations.
-9. Flight Date: Date of the bird strike incident.
-10. Effect: Indicated Damage: Indicated damage caused by the bird strike.
-11. Aircraft: Number of Engines: Number of engines on the aircraft involved.
-12. Aircraft: Airline/Operator: Airline or operator of the aircraft.
-13. Origin State: State of origin of the flight.
-14. When: Phase of Flight: Phase of flight during which the bird strike occurred.
-15. Conditions: Precipitation: Precipitation conditions at the time of the bird strike.
-16. Remains of Wildlife Collected?: Whether remains of wildlife were collected at the scene.
-17. Remains of Wildlife Sent to Smithsonian: Whether remains of wildlife were sent to the Smithsonian Institution.
-18. Remarks: Additional remarks or notes about the bird strike incident.
-19. Wildlife Size: Size category of the wildlife involved.
-20. Conditions: Sky: Sky conditions at the time of the bird strike.
-21. Wildlife Species: Species of wildlife involved in the bird strike.
-22. Pilot Warned of Birds/Wildlife?: Whether the pilot was warned of birds or wildlife before the incident.
-23. Cost: Total $: Total cost associated with the bird strike incident.
-24. Feet Above Ground: Altitude of the aircraft above ground at the time of the bird strike.
-25. Number of People Injured: Number of people injured as a result of the bird strike.
-26. Is Aircraft Large?: Indicator of whether the aircraft is large.
+1. **Record ID:** Unique identifier for each record in the dataset.
+2. **Aircraft Type:** Type of aircraft involved in the bird strike incident.
+3. **Airport Name:** Name of the airport where the bird strike incident occurred.
+4. **Altitude Bin:** Categorized altitude range of the aircraft at the time of the bird strike.
+5. **Aircraft Make/Model:** Make and model of the aircraft involved.
+6. **Wildlife: Number Struck (Reported):** Number of wildlife struck as reported.
+7. **Wildlife: Number Struck (Actual):** Actual number of wildlife struck as determined.
+8. **Effect: Impact to Flight:** Impact of the bird strike on the flight operations.
+9. **Flight Date:** Date of the bird strike incident.
+10. **Effect: Indicated Damage:** Indicated damage caused by the bird strike.
+11. **Aircraft: Number of Engines:** Number of engines on the aircraft involved.
+12. **Aircraft: Airline/Operator:** Airline or operator of the aircraft.
+13. **Origin State:** State of origin of the flight.
+14. **Phase of Flight:** Phase of flight during which the bird strike occurred.
+15. **Conditions: Precipitation:** Precipitation conditions at the time of the bird strike.
+16. **Remains of Wildlife Collected?:** Whether remains of wildlife were collected at the scene.
+17. **Remains of Wildlife Sent to Smithsonian?:** Whether remains of wildlife were sent to the Smithsonian Institution.
+18. **Remarks:** Additional remarks or notes about the bird strike incident.
+19. **Wildlife Size:** Size category of the wildlife involved.
+20. **Conditions: Sky:** Sky conditions at the time of the bird strike.
+21. **Wildlife Species:** Species of wildlife involved in the bird strike.
+22. **Pilot Warned of Birds/Wildlife?:** Whether the pilot was warned of birds or wildlife before the incident.
+23. **Cost: Total $:** Total cost associated with the bird strike incident.
+24. **Feet Above Ground:** Altitude of the aircraft above ground at the time of the bird strike.
+25. **Number of People Injured:** Number of people injured as a result of the bird strike.
+26. **Is Aircraft Large?:** Indicator of whether the aircraft is large.
 
 # Overall summary of the insights : -
 1.	Bird strikes are a significant issue for the aviation industry, with increasing frequency over time and substantial economic impact.
