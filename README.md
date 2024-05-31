@@ -17,3 +17,27 @@ Expected Outcomes :-
     Assessment of the effectiveness of prior warnings in mitigating the impact of bird strikes.
 5.  Preventive Measures:
     Insights into the effectiveness of measures such as wildlife management programs and pilot warnings in reducing bird strike incidents.
+
+
+Targeted Variables :- 
+
+•	Date and Time: 
+    Recording when the bird strike occurred, including the specific date and time of day.
+•	Location: 
+    Identifying where the bird strike incident took place, including the airport code or geographical coordinates.
+•	Flight Information: 
+    Capturing details about the flight involved, such as the airline, flight number, and aircraft type.
+•	Bird Species: 
+    Documenting the species of bird involved in the strike, if identifiable.
+•	Flight Phase: 
+    Categorizing the phase of flight during which the strike occurred, such as takeoff, landing, or cruise.
+•	Altitude: 
+    Noting the altitude of the aircraft at the time of the bird strike.
+•	Weather Conditions: 
+    Describing the weather conditions prevailing at the time of the incident, including factors like visibility, wind speed, and precipitation.
+•	Damage Assessment: 
+    Assessing the extent of damage to the aircraft resulting from the bird strike.
+•	Cost: 
+    Estimating the financial cost associated with the incident, including repair costs and operational impacts.
+•	Injuries or Fatalities: 
+    Recording any injuries to passengers or crew and any fatalities resulting from the bird strike.
